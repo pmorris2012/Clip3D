@@ -1,0 +1,10 @@
+wheel
+numpy
+pyglet
+vispy
+scipy
+torch
+scikit-learn
+matplotlib
+tqdm
+git+https://github.com/pmorris2012/clip-inspect.git
